@@ -1,0 +1,36 @@
+*{
+    margin: auto;
+    padding: 0;
+
+}
+.CUP {
+    position: absolute;
+    float: left;
+    right: 600px;
+    left: 0px;
+    top: 150px;
+    width: 500px;
+    height: 470px;
+}
+.MUG {
+    position: absolute;
+    float: left;
+    right: 960px;
+    left: 0px;
+    bottom: 65px;
+    width: 500px;
+    height: 500px;
+    z-index: 10;
+}
+.Bsplash{
+    position: absolute;
+    float: left;
+    left: -10px;
+    top: 60px;;
+}
+.LOGO{
+    position: absolute;
+    float: left;
+    top: 8px;
+}
+   
